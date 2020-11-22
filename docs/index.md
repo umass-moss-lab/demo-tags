@@ -40,4 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Let's see if I can refer to specific pther pages from here :-) ...
 
-Maybe [v1.2 of the original README](README-v12.html).  The link gets me there, but does not apply the theme. Hmmm ... Maybe with specific link?
+Maybe [v1.2 of the original README](../../../blob/v1.2/README.md).  The link gets me there,
+but does not apply the theme. And putting in .html does not work either.
