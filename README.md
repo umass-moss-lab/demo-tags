@@ -1,3 +1,3 @@
 # demo-tags
 
-This is a READE.md file.  This first version I intend to tag v1.0.
+This is a README.md file.  This first version I intend to tag v1.0.
